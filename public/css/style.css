@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url("/image/bg.jpg") !important;
+    width: 100% !important;
+    height: 100vh !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    font-size: 55px !important;
+}
+
+.object-fit{
+    object-fit: cover !important;
+}
